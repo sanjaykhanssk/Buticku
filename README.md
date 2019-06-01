@@ -4,10 +4,10 @@ It is a Combination of my old project [Bukku](https://github.com/sanjaykhanssk/b
 ## Screenshots
 >This image shows the Analysed count as [Positive and Negative]
 ![](1.png)
-<br>
+
 >This Image shows the Intractive Bar Chart , to the user to easy understand what is going on the commands
 ![](2.png)
-<br>
+
 > This image shows that the user is asking the question to the AI  , and it's Responding for the user question
 ![](3.png)
 
