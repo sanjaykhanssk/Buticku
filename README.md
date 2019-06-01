@@ -42,7 +42,7 @@ The Goal of <i> <b>Tikku</b></i> is <i>Question Answering Bot from given passage
 <dl>
 <div>
 <h2>
-I already said that Buticku is combination of [Bukku](https://github.com/sanjaykhanssk/bukku) and Tikku .</h2>
+I already said that Buticku is combination of <a href = "https://github.com/sanjaykhanssk/bukku">Bukku</a> and Tikku .</h2>
 <p style="color:rgba(255 , 0 , 0 ,200)">
 But Tikku needs a GPU to use it as fast  , it's ver slow in CPU , so i trained the Tikku in Google Colab .<p>
 <div style="background-color:rgba(2,190,100,100) ; color:rgba(10,10,10,255)">
