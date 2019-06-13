@@ -2,6 +2,11 @@
 # Buticku 
 It is a Combination of my old project [Bukku](https://github.com/sanjaykhanssk/bukku) & Tikku.
 
+# Demo Video 
+> [Video on youtube](https://youtu.be/hh9rDJql8qg)
+
+> [Insta Quick Demo Video](https://www.instagram.com/p/Byb-ghyhtx1/?utm_source=ig_web_copy_link)
+
 ## Screenshots
 >This image shows the Analysed count as [Positive and Negative]
 ![](1.png)
@@ -14,7 +19,7 @@ It is a Combination of my old project [Bukku](https://github.com/sanjaykhanssk/b
 
 [![](4.png)]
 
-> [Youtube Video](youtube.com/c/historyofbits)
+> [Youtube Video](https://youtu.be/hh9rDJql8qg)
 
 > [Bukku](https://github.com/sanjaykhanssk/bukku) is a AI flipkart assistant  
 
