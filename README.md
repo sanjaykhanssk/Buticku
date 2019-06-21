@@ -1,4 +1,4 @@
-# Startup Projects (#5)
+# Academic Projects (#5)
 # Buticku 
 It is a Combination of my old project [Bukku](https://github.com/sanjaykhanssk/bukku) & Tikku.
 
